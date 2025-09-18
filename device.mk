@@ -31,7 +31,8 @@ PRODUCT_PACKAGES += \
     OPlusFrameworksResTarget \
     OPlusSettingsProviderResTarget \
     OPlusSettingsResTarget \
-    OPlusSystemUIResTarget
+    OPlusSystemUIResTarget \
+    OPlusAlertSlider
 
 # Partitions
 PRODUCT_BUILD_SUPER_PARTITION := false
